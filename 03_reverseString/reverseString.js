@@ -1,7 +1,7 @@
 const reverseString = function(word) {
-let SplitWord = word.split(``);
-let reverseword = SplitWord.reverse();
-let JoinReverseSplit = reverseword.join(``);
+    let SplitWord = word.split(``);
+    let reverseword = SplitWord.reverse();
+    let JoinReverseSplit = reverseword.join(``);
 
 return JoinReverseSplit
 
